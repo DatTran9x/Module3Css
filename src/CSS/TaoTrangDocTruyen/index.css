@@ -1,0 +1,21 @@
+h1{
+    color: #f629ff;
+    font-weight: bolder;
+    text-align: center;
+    font-size: 250%;
+}
+
+h3{
+    color: hotpink;
+    font-size: 150%;
+}
+
+li{
+    color: deeppink;
+    font-size: 120%;
+}
+
+
+body{
+    background-color: #ffc1fe;
+}
