@@ -1,0 +1,19 @@
+h1{
+    font-weight: bolder;
+}
+
+#element1{
+    color: blue;
+    font-size: 30px;
+}
+
+#element2{
+    text-align: right;
+    color: gray;
+}
+
+#element3{
+    color: black;
+    font-family: "Arial";
+}
+
