@@ -13,9 +13,18 @@ h3{
 li{
     color: deeppink;
     font-size: 120%;
+    counter-increment: inherit;
 }
 
 
 body{
     background-color: #ffc1fe;
+}
+
+.top{
+    background-color: #d991ff;
+}
+
+.not_top{
+    background-color: #af4bff;
 }
