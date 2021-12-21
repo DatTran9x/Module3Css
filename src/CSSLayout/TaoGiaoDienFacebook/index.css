@@ -1,0 +1,25 @@
+#header{
+    text-align: center;
+    background-color: blue;
+    color: white;
+}
+body{
+    font-family: "Times New Roman";
+}
+
+.col-1 {width: 20%;}
+.col-2 {width: 50%;}
+.col-3 {width: 20%;}
+
+[class*="col-"] {
+    float: left;
+    padding: 15px;
+    border: 1px solid snow;
+    text-align: left;
+}
+
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
